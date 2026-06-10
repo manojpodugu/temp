@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: httpd
-        image: httpd:latest
+        image: nginx:lastest
         ports:
         - containerPort: 80
 
